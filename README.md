@@ -1,6 +1,7 @@
 # E-commerce Chat Bot
 
 A React and TypeScript web application that displays a list of products with their details.
+[LIVE DEMO](https://chat-bot-mu-blue.vercel.app/)
 
 ## 🚀 Features
 
